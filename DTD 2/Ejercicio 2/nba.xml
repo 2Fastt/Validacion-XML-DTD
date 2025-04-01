@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE EquiposNBA SYSTEM "equiposnba.dtd">
+
+<EquiposNBA>
+    <nombre>Boston Celtics</nombre>
+        <equipo conferencia="este">
+            <nombre>Boston Celtics</nombre>
+            <titulos>17</titulos>
+            <posicion>1</posicion>
+            <quinteto>Jayson Tatum, Kristaps Porzingis, Jaylen Brown, Jrue Holiday, Derrick White</quinteto>
+        </equipo>
+    <nombre>Golden State Warriors</nombre>
+        <equipo conferencia="oeste">
+            <nombre>Golden State Warriors</nombre>
+            <titulos>7</titulos>
+            <posicion>5</posicion>
+            <quinteto>Stephen Curry, Klay Thompson, Draymond Green, Andrew Wiggins, Kevon Looney</quinteto>
+        </equipo>
+    <nombre>Charlote Hornets</nombre>
+        <equipo conferencia="este">
+            <nombre>Charlote Hornets</nombre>
+            <titulos>0</titulos>
+            <posicion>14</posicion>
+            <quinteto>Lamelo Ball, Mark Williams, Miles Bridges, Josh Green, Vrabdib Nukker</quinteto>
+        </equipo>
+</EquiposNBA>
