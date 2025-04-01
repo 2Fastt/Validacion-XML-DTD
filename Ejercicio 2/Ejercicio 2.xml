@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 01/04/2025
+Ejercicio: Validacion XML - DTD 1
+-->
+
+<!DOCTYPE liga SYSTEM "externo.dtd">
+
+<liga>
+    <jugador>
+        <nombre>Luca</nombre>
+        <apellidos>Doncic</apellidos>
+        <equipo>
+            <ciudad>Los Angeles</ciudad>
+            <presidente>
+                <nombrePresidente>Jeanie</nombrePresidente>
+                <apellidosPresidente>Buss</apellidosPresidente>
+            </presidente>
+        </equipo>
+        <edad>26</edad>
+    </jugador>
+
