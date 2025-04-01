@@ -15,3 +15,16 @@
         <autor>Edward Snowden</autor>
         <paginas>443</paginas>
     </libro>
+    <libro>
+        <titulo>Cointeligencia</titulo>
+        <editorial>Conecta</editorial>
+        <autor>Ethan Mollick</autor>
+        <paginas>235</paginas>
+    </libro>
+    <libro>
+        <titulo>Real-World Bug Hunting</titulo>
+        <editorial>Sin Editorial</editorial>
+        <autor>Peter Yaworski</autor>
+        <paginas>264</paginas>
+    </libro>
+</biblioteca>
