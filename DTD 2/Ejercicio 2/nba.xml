@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE EquiposNBA SYSTEM "equiposnba.dtd">
 
+<!-- 
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 01/04/2025
+Ejercicio: Validacion XML - DTD 2
+-->
+
 <EquiposNBA>
     <nombre>Boston Celtics</nombre>
         <equipo conferencia="este">

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Aeropuerto SYSTEM "aeropuertoo.dtd">
+
+<Aeropuerto>
+    <nombre>Aeropuerto JFK</nombre>
+    <panel_fecha>20/12/2013</panel_fecha>
+
+    <vuelo codigo="v22" estado="R">
+        <diario>SI</diario>
+        <origen>New York</origen>
+        <destino>Chicago</destino>
+        <hora_salida>9:30</hora_salida>
+        <hora_llegada>11:30</hora_llegada>
+    </vuelo>
