@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cuento SYSTEM "cuentoo.dtd">
+
+<cuento cod="I06" titulo="Lenguaje de Marcas y Su Dificultad" genero="Terror">
+    <personajes>
+        <personaje id="i01" tipo="principal">
+            <nombre>Profesor</nombre>
+            <genero>M</genero>
+            <descripcion>Profesor que imparte lenguaje de marcas.</descripcion>
+            <descripcion_fisica>Alto y con gafas.</descripcion_fisica>
+    </personajes>
+    <personajes>
+        <personaje id="i02" tipo="secundario">
+            <nombre>Alumno</ignacio>
+            <genero>M</genero>
+            <descripcion>Alumno que atiende a las clases de lenguaje de marcas.</descripcion>
+            <descripcion_fisica>15 años y de estatura baja.</descripcion_fisica>
+    </personajes>
+    <trama>Trata de las dificultadas por las que pasa el profesor para impartir esta asignatura a los alumnos.</trama>
+    <etiqueta nombre="marcas"/>
+    <precio moneda="eur">15,00€</precio>
+</cuento>
