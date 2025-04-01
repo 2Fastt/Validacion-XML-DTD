@@ -1,0 +1,10 @@
+<!ELEMENT cuento (personajes, trama, etiqueta*, precio?)>
+<!ATTLIST cuento
+    cod ID #REQUIRED
+    titulo #REQUIRED
+    genero (infantil|fantasía|terror) #IMPLIED>
+<!ELEMENT personajes (personaje+)>
+<!ELEMENT personaje (nombre, genero, descripcion?, descripcion_fisica?, imagen?, url?)>
+<!ATTLIST personaje
+    id ID #REQUIRED
+    tipo (principal|secundario|antagonista) "principal">
