@@ -14,8 +14,8 @@ Ejercicio: Validacion XML - DTD 1
         <equipo>
             <ciudad>Los Angeles</ciudad>
             <presidente>
-                <nombrePresidente>Jeanie</nombrePresidente>
-                <apellidosPresidente>Buss</apellidosPresidente>
+                <nombrepresidente>Jeanie</nombrepresidente>
+                <apellidospresidente>Buss</apellidospresidente>
             </presidente>
         </equipo>
         <edad>26</edad>
@@ -26,8 +26,8 @@ Ejercicio: Validacion XML - DTD 1
         <equipo>
             <ciudad>Los Angeles</ciudad>
             <presidente>
-                <nombrePresidente>Jeanie</nombrePresidente>
-                <apellidosPresidente>Buss</apellidosPresidente>
+                <nombrepresidente>Jeanie</nombrepresidente>
+                <apellidospresidente>Buss</apellidospresidente>
             </presidente>
         </equipo>
         <edad>39</edad>
