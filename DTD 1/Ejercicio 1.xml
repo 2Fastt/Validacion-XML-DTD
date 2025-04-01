@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE biblioteca [
+    <!ELEMENT biblioteca (libro+)>
+    <!ELEMENT libro (titulo, editorial, autor, paginas)>
+    <!ELEMENT titulo (#PCDATA)>
+    <!ELEMENT editorial (#PCDATA)>
+    <!ELEMENT autor (#PCDATA)>
+    <!ELEMENT paginas (#PCDATA)>
+]>
+<biblioteca>
+    <libro>
+        <titulo>Vigilancia Permanente</titulo>
+        <editorial>Planeta</editorial>
+        <autor>Edward Snowden</autor>
+        <paginas>443</paginas>
+    </libro>
