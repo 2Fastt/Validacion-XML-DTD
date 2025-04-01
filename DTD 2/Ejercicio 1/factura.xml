@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!-- 
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 01/04/2025
+Ejercicio: Validacion XML - DTD 2
+-->
+
 <!DOCTYPE factura SYSTEM "facturaa.dtd">
 <factura numero="00001" fecha="2025-04-01">
     <datos-emisor>
@@ -18,8 +25,8 @@
             <cantidad>1</cantidad>
             <pvp>90.00</pvp>
         </linea>
-        <linea codigo-articulo="02" tipo="Juegos">
-            <descripcion>Modern Warfare 2</descripcion>
+        <linea codigo-articulo="01" tipo="Disco">
+            <descripcion>Yo, Minoria Absoluta | Extremoduro</descripcion>
             <cantidad>1</cantidad>
             <pvp>90.00</pvp>
         </linea>
