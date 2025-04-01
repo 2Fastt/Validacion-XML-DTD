@@ -7,7 +7,6 @@ Ejercicio: Validacion XML - DTD 1
 -->
 
 <!DOCTYPE liga SYSTEM "externo.dtd">
-
 <liga>
     <jugador>
         <nombre>Luca</nombre>
@@ -21,4 +20,18 @@ Ejercicio: Validacion XML - DTD 1
         </equipo>
         <edad>26</edad>
     </jugador>
+    <jugador>
+        <nombre>Lebron</nombre>
+        <apellidos>James</apellidos>
+        <equipo>
+            <ciudad>Los Angeles</ciudad>
+            <presidente>
+                <nombrePresidente>Jeanie</nombrePresidente>
+                <apellidosPresidente>Buss</apellidosPresidente>
+            </presidente>
+        </equipo>
+        <edad>39</edad>
+    </jugador>
+</liga>
+
 
