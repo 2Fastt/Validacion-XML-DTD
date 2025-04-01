@@ -4,4 +4,19 @@
 <cuento cod="I05" titulo="Ignacio y su hackeo a cerberus: Aplicacion de la Policia Nacional" genero="Narrativo">
     <personajes>
         <personaje id="i01" tipo="principal">
+            <nombre>Ignacio</ignacio>
+            <genero>M</genero>
+            <descripcion>Joven Curioso por la Informática e introvertido.</descripcion>
+            <descripcion_fisica>Tatuaje en el antebrazo y alto.</descripcion_fisica>
     </personajes>
+    <personajes>
+        <personaje id="i02" tipo="principal">
+            <nombre>Manuel</ignacio>
+            <genero>M</genero>
+            <descripcion>Trabajador del CNI en busca de capturar a Ignacio.</descripcion>
+            <descripcion_fisica>Varón de 60-65 años con barba.</descripcion_fisica>
+    </personajes>
+    <trama>Ignacio hackea la aplicación Cerberus, pero manuel se da cuenta de que algo raro esta pasando en esa aplicación y se pone a investigar</trama>
+    <etiqueta nombre="hackeo"/>
+    <precio moneda="eur">25,89€</precio>
+</cuento>
