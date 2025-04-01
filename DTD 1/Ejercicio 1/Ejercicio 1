@@ -17,19 +17,28 @@ Ejercicio: Validacion XML - DTD 1
     <libro>
         <titulo>Vigilancia Permanente</titulo>
         <editorial>Planeta</editorial>
-        <autor>Edward Snowden</autor>
+        <autor>
+            <nombre>Edward</nombre>
+            <apellidos>Snowden</apellidos>
+        </autor>
         <paginas>443</paginas>
     </libro>
     <libro>
         <titulo>Cointeligencia</titulo>
         <editorial>Conecta</editorial>
-        <autor>Ethan Mollick</autor>
+        <autor>Ethan Mollick
+            <nombre>Ethan</nombre>
+            <apellidos>Mollick</apellidos>
+        </autor>
         <paginas>235</paginas>
     </libro>
     <libro>
         <titulo>Real-World Bug Hunting</titulo>
         <editorial>Sin Editorial</editorial>
-        <autor>Peter Yaworski</autor>
+        <autor>
+            <nombre>Peter</nombre>
+            <apellidos>Yaworski</apellidos>
+        </autor>
         <paginas>264</paginas>
     </libro>
 </biblioteca>

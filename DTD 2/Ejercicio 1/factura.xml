@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE factura SYSTEM "facturaa.dtd">
+<factura numero="00001" fecha="2025-04-01">
+    <datos-emisor>
+        <nombre>FNAC Parquesur</nombre>
+        <cif>A80500200</cif>
+        <telefono>684675423</telefono>
+    </datos-emisor>
+    <datos-cliente>
+        <nombre>Mercadona</nombre>
+        <cif>A46103834</cif>
+        <telefono>674887562</telefono>
+    </datos-cliente>

@@ -21,7 +21,6 @@ Ejercicio: Validacion XML - DTD 1
     <!ELEMENT ciudad (#PCDATA)>
     <!ELEMENT localidad (#PCDATA)>
 ]>
-
 <agenda>
     <nombre>Antonio</nombre>
     <apellido>Sánchez</apellido>
