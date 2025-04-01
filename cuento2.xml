@@ -6,6 +6,7 @@ Curso: ASIR 1
 Fecha: 01/04/2025
 Ejercicio: Validacion XML - DTD 3
 -->
+<!--Los valores que no se pueden plasmar en el DTD es el de genero, porque es opcional.-->
 
 <!DOCTYPE cuento SYSTEM "cuentoo.dtd">
 
