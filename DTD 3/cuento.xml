@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cuento SYSTEM "cuentoo.dtd">
+
+<cuento cod="I05" titulo="Ignacio y su hackeo a cerberus: Aplicacion de la Policia Nacional" genero="Narrativo">
+    <personajes>
+        <personaje id="i01" tipo="principal">
+    </personajes>
