@@ -12,3 +12,16 @@
         <cif>A46103834</cif>
         <telefono>674887562</telefono>
     </datos-cliente>
+    <detalle-factura importe="180,00">
+        <linea codigo-articulo="01" tipo="Juegos">
+            <descripcion>The Last Of Us Remastered</descripcion>
+            <cantidad>1</cantidad>
+            <pvp>90.00</pvp>
+        </linea>
+        <linea codigo-articulo="02" tipo="Juegos">
+            <descripcion>Modern Warfare 2</descripcion>
+            <cantidad>1</cantidad>
+            <pvp>90.00</pvp>
+        </linea>
+    </detalle-factura>
+</factura>
