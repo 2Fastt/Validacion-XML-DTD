@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 01/04/2025
+Ejercicio: Validacion XML - DTD 3
+-->
+
 <!DOCTYPE cuento SYSTEM "cuentoo.dtd">
 
 <cuento cod="I06" titulo="Lenguaje de Marcas y Su Dificultad" genero="Terror">

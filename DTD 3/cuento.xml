@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 01/04/2025
+Ejercicio: Validacion XML - DTD 3
+-->
+
 <!DOCTYPE cuento SYSTEM "cuentoo.dtd">
 
 <cuento cod="I05" titulo="Ignacio y su hackeo a cerberus: Aplicacion de la Policia Nacional" genero="Narrativo">
