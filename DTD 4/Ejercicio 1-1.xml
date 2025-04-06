@@ -9,7 +9,6 @@ Ejercicio: Validacion XML - DTD 4
     <!ELEMENT numeros (numero+)>
     <!ELEMENT numero (#PCDATA)>
 ]>
-
 <numeros>
     <numero>25</numero>
 </numeros>
