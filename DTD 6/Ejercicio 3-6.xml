@@ -13,6 +13,6 @@
     <jugador nombre="Edson Arantes do Nascimento" codigo="ean"/>
     <jugador nombre="Diego Armando Maradona" codigo="dam"/>
     <jugador nombre="Johan Cruyff" codigo="jc"/>
-    <equipo nombre="Calcio Napoli" jugadores="maradona"/>
-    <equipo nombre="FC Barcelona" jugadores="Cruyff, Maradona"/>
+    <equipo nombre="Calcio Napoli" jugadores="dam"/>
+    <equipo nombre="FC Barcelona" jugadores="jc,dam"/>
 </futbol>
