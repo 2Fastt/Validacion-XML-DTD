@@ -3,7 +3,6 @@
     <!ELEMENT colores (color*)>
     <!ELEMENT color (#PCDATA)>
 ]>
-
 <colores>
     <color>azul marino</color>
     <color>negro</color>
