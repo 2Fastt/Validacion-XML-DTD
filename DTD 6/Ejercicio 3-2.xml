@@ -5,5 +5,4 @@
         titulo CDATA #IMPLIED
         genero CDATA #IMPLIED>
 ]>
-
 <pelicula titulo="La diligencia" genero="oeste" />
